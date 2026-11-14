@@ -1,6 +1,31 @@
 # ReactPress Theme Twenty Twenty-Six
 
-WordPress block theme for [ReactPress](https://www.reactpress.cc/) — the public package slug is **`reactpress-blog`**.
+<div align="center">
+
+<a href="https://www.reactpress.cc/">
+  <img src="./screenshot.png" alt="ReactPress Blog — WordPress theme preview" width="100%" />
+</a>
+
+<br />
+
+**WordPress block theme for [ReactPress](https://www.reactpress.cc/)** — package slug `reactpress-blog`
+
+<br />
+
+[Docs](https://reactpress.cc/) ·
+[ReactPress](https://github.com/reactpressjs/reactpress) ·
+[Theme Starter](https://github.com/reactpressjs/reactpress-theme-starter) ·
+[WordPress.org ticket](https://themes.trac.wordpress.org/ticket/298039)
+
+<br />
+
+<img src="https://img.shields.io/badge/License-GPLv2-22c55e?style=flat-square" alt="GPLv2 License" />
+<img src="https://img.shields.io/badge/WordPress-6.4%2B-21759b?style=flat-square&logo=wordpress" alt="WordPress 6.4+" />
+<img src="https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=flat-square&logo=php" alt="PHP 7.4+" />
+
+</div>
+
+---
 
 A clean two-column Full Site Editing (FSE) theme matching the [ReactPress Theme Starter](https://github.com/reactpressjs/reactpress-theme-starter) layout: hero carousel, category filter, article cards, and recommended sidebar.
 
