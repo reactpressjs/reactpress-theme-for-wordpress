@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ReactPress for WordPress 1.3.13\n"
-"Report-Msgid-Bugs-To: https://github.com/reactpressjs/reactpress-theme-twentytwentysix/issues\n"
+"Report-Msgid-Bugs-To: https://github.com/reactpressjs/reactpress-for-wordpress/issues\n"
 "POT-Creation-Date: 2026-11-13T00:00:00+00:00\n"
 "PO-Revision-Date: 2026-11-13T00:00:00+00:00\n"
 "Last-Translator: ReactPress\n"

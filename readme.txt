@@ -156,7 +156,7 @@ ReactPress for WordPress is distributed under the terms of the GNU GPL v2 or lat
 The ReactPress name, logo, and related branding used in this theme are owned by
 the theme author (ReactPress / FECommunity) and are included here with that
 owner's permission. This theme is an official companion to the ReactPress
-project at https://www.reactpress.cc/ and https://github.com/reactpressjs/reactpress-theme-twentytwentysix.
+project at https://www.reactpress.cc/ and https://github.com/reactpressjs/reactpress-for-wordpress.
 
 This theme ships no bundled third-party fonts or icon libraries.
 
