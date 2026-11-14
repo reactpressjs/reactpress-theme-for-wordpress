@@ -13,7 +13,7 @@
 3. Build the zip:
 
 ```bash
-bash scripts/pack.sh
+bash pack.sh
 ```
 
 4. Confirm `dist/reactpress-blog.zip` root contains `style.css`, `theme.json`, `templates/index.html`, `readme.txt`, `screenshot.png`, and `inc/`.
@@ -27,6 +27,6 @@ bash scripts/pack.sh
 
 ## Notes
 
-- Do not include `.git`, Next.js app files, or other packages in the zip.
+- Do not include `.git`, `pack.sh`, or repo docs (`README.md`, `SUBMIT.md`) in the zip.
 - Theme slug / text domain must remain `reactpress-blog`.
-- Pack script path: `scripts/pack.sh` (outside the theme package).
+- Pack script: `pack.sh` at the repository root (excluded from the package).

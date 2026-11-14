@@ -15,16 +15,9 @@ A clean two-column Full Site Editing (FSE) theme matching the [ReactPress Theme 
 | License | GPLv2 or later |
 | Review ticket | [#298039](https://themes.trac.wordpress.org/ticket/298039) |
 
-## Repository layout
-
-```text
-reactpress-blog/     # WordPress theme (zip root for WordPress.org)
-scripts/pack.sh      # Builds dist/reactpress-blog.zip
-```
-
 ## Local install
 
-1. Symlink or copy `reactpress-blog/` into `wp-content/themes/reactpress-blog`.
+1. Symlink or copy this repo into `wp-content/themes/reactpress-blog`.
 2. Activate **ReactPress Blog** under Appearance → Themes.
 3. Open Appearance → Editor to adjust navigation, styles, and template parts.
 4. Optional: select the **Dark** style variation under Styles.
@@ -33,12 +26,14 @@ scripts/pack.sh      # Builds dist/reactpress-blog.zip
 ## Package for WordPress.org
 
 ```bash
-bash scripts/pack.sh
+bash pack.sh
 ```
 
-Upload `dist/reactpress-blog.zip` at https://wordpress.org/themes/upload/
+Creates `dist/reactpress-blog.zip` with archive root `reactpress-blog/` (WordPress.org requirement). `pack.sh`, `README.md`, and `SUBMIT.md` are excluded from the zip.
 
-See [`reactpress-blog/SUBMIT.md`](./reactpress-blog/SUBMIT.md) for the review checklist.
+Upload at https://wordpress.org/themes/upload/
+
+See [`SUBMIT.md`](./SUBMIT.md) for the review checklist.
 
 ## Features
 
@@ -60,6 +55,6 @@ See [`reactpress-blog/SUBMIT.md`](./reactpress-blog/SUBMIT.md) for the review ch
 
 ## License
 
-GPLv2 or later. See `reactpress-blog/license.txt` and `reactpress-blog/readme.txt`.
+GPLv2 or later. See `license.txt` and `readme.txt`.
 
 ReactPress Blog WordPress Theme, Copyright 2024–2026 ReactPress / FECommunity.
