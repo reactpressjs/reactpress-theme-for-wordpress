@@ -1,5 +1,5 @@
 === ReactPress Blog ===
-Contributors: reactpress
+Contributors: reactpressjs
 Requires at least: 6.4
 Tested up to: 7.1
 Requires PHP: 7.4
