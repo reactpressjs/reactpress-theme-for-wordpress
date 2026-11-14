@@ -2,7 +2,7 @@
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: ReactPress for WordPress 1.3.13\n"
+"Project-Id-Version: ReactPress Theme for WordPress 1.3.13\n"
 "Report-Msgid-Bugs-To: https://github.com/reactpressjs/reactpress-for-wordpress/issues\n"
 "POT-Creation-Date: 2026-11-13T00:00:00+00:00\n"
 "PO-Revision-Date: 2026-11-13T00:00:00+00:00\n"
@@ -190,8 +190,8 @@ msgstr "主菜单"
 
 #: inc/customizer.php:49
 #: inc/setup.php:140
-msgid "ReactPress for WordPress"
-msgstr "ReactPress for WordPress"
+msgid "ReactPress Theme for WordPress"
+msgstr "ReactPress Theme for WordPress"
 
 #: inc/render.php:150
 #: inc/render.php:186

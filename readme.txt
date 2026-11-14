@@ -1,4 +1,4 @@
-=== ReactPress for WordPress ===
+=== ReactPress Theme for WordPress ===
 Contributors: reactpressjs
 Requires at least: 6.4
 Tested up to: 7.1
@@ -12,7 +12,7 @@ Official ReactPress block theme for WordPress — hero carousel, category filter
 
 == Description ==
 
-ReactPress for WordPress is a full site editing (block) theme for blogs and magazines, by [ReactPress](https://www.reactpress.cc/). The home layout includes a hero carousel, category filter pills, horizontal article cards, and a recommended readings + tags sidebar.
+ReactPress Theme for WordPress is a full site editing (block) theme for blogs and magazines, by [ReactPress](https://www.reactpress.cc/). The home layout includes a hero carousel, category filter pills, horizontal article cards, and a recommended readings + tags sidebar.
 
 Theme homepage / product: https://www.reactpress.cc/
 
@@ -37,7 +37,7 @@ Features:
 3. Activate the theme.
 4. Optionally open Appearance → Editor to customize templates, styles, and navigation.
 5. Choose the Dark style under Styles if desired.
-6. Use Appearance → Customize → ReactPress for WordPress for basic colors and feed options.
+6. Use Appearance → Customize → ReactPress Theme for WordPress for basic colors and feed options.
 
 == Frequently Asked Questions ==
 
@@ -51,11 +51,11 @@ In the Site Editor, open Styles and select the "Dark" style variation.
 
 = Can I change the primary color? =
 
-Yes. Use Appearance → Customize → ReactPress for WordPress → Colors, or Appearance → Editor → Styles → Colors.
+Yes. Use Appearance → Customize → ReactPress Theme for WordPress → Colors, or Appearance → Editor → Styles → Colors.
 
 = How does infinite scroll work? =
 
-The home and archive feeds load the next page of posts automatically as you scroll. Turn it off under Appearance → Customize → ReactPress for WordPress → Layout & Feed to restore classic pagination.
+The home and archive feeds load the next page of posts automatically as you scroll. Turn it off under Appearance → Customize → ReactPress Theme for WordPress → Layout & Feed to restore classic pagination.
 
 == Changelog ==
 
@@ -130,7 +130,7 @@ The home and archive feeds load the next page of posts automatically as you scro
 * Fix Header Tools block crash (`wp_registration_enabled` was not a core function).
 * Fix Recommended Readings / Tags header wrapping and icon alignment.
 * Replace feed pagination with infinite scroll (Customizer toggle for classic pagination).
-* Add ReactPress for WordPress Customizer panel for colors, auth buttons, sidebar width, and posts per page.
+* Add ReactPress Theme for WordPress Customizer panel for colors, auth buttons, sidebar width, and posts per page.
 * Stabilize ServerSideRender error messages in the Site Editor.
 
 = 1.2.0 =
@@ -150,8 +150,8 @@ The home and archive feeds load the next page of posts automatically as you scro
 
 == Copyright ==
 
-ReactPress for WordPress Theme, Copyright 2024–2026 ReactPress / FECommunity
-ReactPress for WordPress is distributed under the terms of the GNU GPL v2 or later.
+ReactPress Theme for WordPress, Copyright 2024–2026 ReactPress / FECommunity
+ReactPress Theme for WordPress is distributed under the terms of the GNU GPL v2 or later.
 
 The ReactPress name, logo, and related branding used in this theme are owned by
 the theme author (ReactPress / FECommunity) and are included here with that

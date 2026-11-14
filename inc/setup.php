@@ -137,7 +137,7 @@ function reactpress_blog_register_pattern_categories() {
 	register_block_pattern_category(
 		'reactpress-blog',
 		array(
-			'label' => __( 'ReactPress for WordPress', 'reactpress-blog' ),
+			'label' => __( 'ReactPress Theme for WordPress', 'reactpress-blog' ),
 		)
 	);
 }

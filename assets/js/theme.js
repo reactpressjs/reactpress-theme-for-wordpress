@@ -1,5 +1,5 @@
 /**
- * ReactPress for WordPress — progressive enhancements.
+ * ReactPress Theme for WordPress — progressive enhancements.
  * Sticky header, theme toggle, search modal, carousel, mobile menu, tag cloud, back-to-top.
  */
 ;(function () {
