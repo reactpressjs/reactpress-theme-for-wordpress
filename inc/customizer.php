@@ -2,7 +2,7 @@
 /**
  * Customizer settings.
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -46,7 +46,7 @@ function reactpress_blog_customize_register( $wp_customize ) {
 	$wp_customize->add_panel(
 		'reactpress_blog_panel',
 		array(
-			'title'    => __( 'ReactPress Blog', 'reactpress-blog' ),
+			'title'    => __( 'ReactPress for WordPress', 'reactpress-blog' ),
 			'priority' => 160,
 		)
 	);

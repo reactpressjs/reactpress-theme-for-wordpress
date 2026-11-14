@@ -5,7 +5,7 @@
  * Categories: reactpress-blog
  * Inserter: no
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 ?>

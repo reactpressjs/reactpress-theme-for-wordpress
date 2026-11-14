@@ -2,7 +2,7 @@
 /**
  * Styles and scripts.
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

@@ -1,8 +1,8 @@
 <?php
 /**
- * ReactPress Blog theme functions.
+ * ReactPress for WordPress theme functions.
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  * @since 1.0.0
  */
 

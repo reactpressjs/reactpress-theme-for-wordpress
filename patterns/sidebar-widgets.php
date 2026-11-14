@@ -6,7 +6,7 @@
  * Inserter: yes
  * Description: Recommended readings and colorful tags sidebar.
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 ?>

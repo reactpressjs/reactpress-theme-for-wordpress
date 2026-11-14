@@ -1,14 +1,14 @@
-# ReactPress Theme Twenty Twenty-Six
+# ReactPress for WordPress
 
 <div align="center">
 
 <a href="https://www.reactpress.cc/">
-  <img src="./screenshot.png" alt="ReactPress Blog — WordPress theme preview" width="100%" />
+  <img src="./screenshot.png" alt="ReactPress for WordPress — theme preview" width="100%" />
 </a>
 
 <br />
 
-**WordPress block theme for [ReactPress](https://www.reactpress.cc/)** — package slug `reactpress-blog`
+**Official WordPress block theme for [ReactPress](https://www.reactpress.cc/)** — package slug `reactpress-blog`
 
 <br />
 
@@ -27,11 +27,11 @@
 
 ---
 
-A clean two-column Full Site Editing (FSE) theme matching the [ReactPress Theme Starter](https://github.com/reactpressjs/reactpress-theme-starter) layout: hero carousel, category filter, article cards, and recommended sidebar.
+A clean two-column Full Site Editing (FSE) theme aligned with the [ReactPress Theme Starter](https://github.com/reactpressjs/reactpress-theme-starter) layout: hero carousel, category filter, article cards, and recommended sidebar.
 
 | | |
 | --- | --- |
-| Theme name | ReactPress Blog |
+| Theme name | ReactPress for WordPress |
 | Package / text domain | `reactpress-blog` |
 | Version | 1.3.13 |
 | Requires at least | WordPress 6.4 |
@@ -43,10 +43,10 @@ A clean two-column Full Site Editing (FSE) theme matching the [ReactPress Theme 
 ## Local install
 
 1. Symlink or copy this repo into `wp-content/themes/reactpress-blog`.
-2. Activate **ReactPress Blog** under Appearance → Themes.
+2. Activate **ReactPress for WordPress** under Appearance → Themes.
 3. Open Appearance → Editor to adjust navigation, styles, and template parts.
 4. Optional: select the **Dark** style variation under Styles.
-5. Optional: Appearance → Customize → **ReactPress Blog** for colors, infinite scroll, and feed settings.
+5. Optional: Appearance → Customize → **ReactPress for WordPress** for colors, infinite scroll, and feed settings.
 
 ## Package for WordPress.org
 
@@ -76,10 +76,11 @@ See [`SUBMIT.md`](./SUBMIT.md) for the review checklist.
 
 - [ReactPress](https://github.com/reactpressjs/reactpress) — CMS, admin, CLI
 - [ReactPress Theme Starter](https://github.com/reactpressjs/reactpress-theme-starter) — Next.js public site theme
+- [ReactPress for VS Code](https://github.com/reactpressjs/reactpress-for-vscode) — publish companion
 - [Documentation](https://reactpress.cc/)
 
 ## License
 
 GPLv2 or later. See `license.txt` and `readme.txt`.
 
-ReactPress Blog WordPress Theme, Copyright 2024–2026 ReactPress / FECommunity.
+ReactPress for WordPress Theme, Copyright 2024–2026 ReactPress / FECommunity.

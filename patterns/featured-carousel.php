@@ -6,7 +6,7 @@
  * Inserter: yes
  * Description: Hero carousel of sticky or recent posts with cover images.
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 ?>

@@ -7,7 +7,7 @@
  * Inserter: yes
  * Description: Horizontal ReactPress-style post card.
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 ?>

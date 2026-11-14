@@ -6,7 +6,7 @@
  * Inserter: yes
  * Description: Category filter plus horizontal post cards matching ReactPress.
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 $per_page = absint( get_theme_mod( 'reactpress_blog_posts_per_page', get_option( 'posts_per_page', 10 ) ) );

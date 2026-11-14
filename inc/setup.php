@@ -2,7 +2,7 @@
 /**
  * Theme setup and rewrite rules.
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -137,7 +137,7 @@ function reactpress_blog_register_pattern_categories() {
 	register_block_pattern_category(
 		'reactpress-blog',
 		array(
-			'label' => __( 'ReactPress Blog', 'reactpress-blog' ),
+			'label' => __( 'ReactPress for WordPress', 'reactpress-blog' ),
 		)
 	);
 }

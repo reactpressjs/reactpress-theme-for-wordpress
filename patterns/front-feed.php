@@ -6,7 +6,7 @@
  * Inserter: yes
  * Description: Category filter plus post cards for the front page (does not inherit the page query).
  *
- * @package ReactPress_Blog
+ * @package ReactPress_For_WordPress
  */
 
 $per_page = absint( get_theme_mod( 'reactpress_blog_posts_per_page', get_option( 'posts_per_page', 10 ) ) );
